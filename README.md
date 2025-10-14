@@ -10,7 +10,7 @@
 | UC | Project | Description |
 |----|----------|--------------|
 | LTW | [Freelancerz](https://github.com/jpmartins448/Freelancerz) | A webiste for freelancers to offer their services (like fiverr) | `Django` · `PostgreSQL` · `Docker` |
-| LDTS | [Space Invadres](https://github.com/jpmartins448/Space-Invaders-Reborn/tree/master) | A game like space invaders | `C++` |
+| LDTS | [Space Invaders](https://github.com/jpmartins448/Space-Invaders-Reborn/tree/master) | A game like space invaders | `C++` |
 | AED | [STCP++](https://github.com/joaopedromartins/STCPplusplus) | Routing system for the STCP network with graph algorithms for pathfinding. | `C++` · `Graphs` |
 | LTW | [O Comilão](https://github.com/joaopedromartins/OComilao) | Takeaway food web app using PHP and SQLite3 as server-side technologies. | `PHP` · `SQLite3` · `HTML/CSS` |
 | LCOM | [Gertic--](https://github.com/joaopedromartins/Gertic--) | A local multiplayer game inspired by Gartic, implemented in C with multiple devices. | `C` · `Minix` |
