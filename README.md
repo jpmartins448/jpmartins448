@@ -9,13 +9,8 @@
 
 | UC | Project | Description |
 |----|----------|--------------|
-| LTW | [Freelancerz](https://github.com/jpmartins448/Freelancerz) | A webiste for freelancers to offer their services (like fiverr) | `Django` · `PostgreSQL` · `Docker` |
-| LDTS | [Space Invaders](https://github.com/jpmartins448/Space-Invaders-Reborn/tree/master) | A game like space invaders | `C++` |
-| ES | [ShelfSaver](https://github.com/jpmartins448/ShelfSaver) | App in Flutter that for supermarkets and stores to sell about to expire products | `C++` · `Graphs` |
-| RCOM | [Packets](https://github.com/jpmartins448/RCOM_25-26) | Code that enabes the reading of .gif files by transforming them into data packets (still in progress) | `PHP` · `SQLite3` · `HTML/CSS` |
-| LCOM | [Gertic--](https://github.com/joaopedromartins/Gertic--) | A local multiplayer game inspired by Gartic, implemented in C with multiple devices. | `C` · `Minix` |
-| ESOF | [Uni++](https://github.com/joaopedromartins/UniPlusPlus) | Agile software engineering project extending the UNI application with new metrics. | `Java` · `Agile` |
-| DA | [TraveLog](https://github.com/joaopedromartins/TraveLog) | Route optimization system for a travel agency using graph search. | `Python` · `NetworkX` |
-| PFL | [Barca](https://github.com/joaopedromartins/Barca) | Board game implemented with Prolog and a Minimax AI algorithm. | `Prolog` · `AI` |
-| RCOM | [PTransfer](https://github.com/joaopedromartins/PTransfer) | Data connection protocol for transferring files between two computers. | `C` · `Networking` |
-| IA | [Cohesion Free](https://github.com/joaopedromartins/CohesionFree) | Board game powered by multiple AI search algorithms. | `Python` · `AI` |
+| LTW | [Freelancerz](https://github.com/jpmartins448/Freelancerz) | A webiste for freelancers to offer their services (like fiverr) |
+| LDTS | [Space Invaders](https://github.com/jpmartins448/Space-Invaders-Reborn/tree/master) | A game like space invaders |
+| ES | [ShelfSaver](https://github.com/jpmartins448/ShelfSaver) | App in Flutter that for supermarkets and stores to sell about to expire products |
+| RCOM | [Packets](https://github.com/jpmartins448/RCOM_25-26) | Code that enabes the reading of .gif files by transforming them into data packets (still in progress) |
+| LCOM | [Arcade Games](https://github.com/jpmartins448/Arcade-Games) | Local arcade games, implemented in c with multiple devices |
