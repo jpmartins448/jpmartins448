@@ -12,7 +12,7 @@
 | LTW | [Freelancerz](https://github.com/jpmartins448/Freelancerz) | A webiste for freelancers to offer their services (like fiverr) | `Django` · `PostgreSQL` · `Docker` |
 | LDTS | [Space Invaders](https://github.com/jpmartins448/Space-Invaders-Reborn/tree/master) | A game like space invaders | `C++` |
 | ES | [ShelfSaver](https://github.com/jpmartins448/ShelfSaver) | App in Flutter that for supermarkets and stores to sell about to expire products | `C++` · `Graphs` |
-| LTW | [O Comilão](https://github.com/joaopedromartins/OComilao) | Takeaway food web app using PHP and SQLite3 as server-side technologies. | `PHP` · `SQLite3` · `HTML/CSS` |
+| RCOM | [Packets](https://github.com/jpmartins448/RCOM_25-26) | Code that enabes the reading of .gif files by transforming them into data packets (still in progress) | `PHP` · `SQLite3` · `HTML/CSS` |
 | LCOM | [Gertic--](https://github.com/joaopedromartins/Gertic--) | A local multiplayer game inspired by Gartic, implemented in C with multiple devices. | `C` · `Minix` |
 | ESOF | [Uni++](https://github.com/joaopedromartins/UniPlusPlus) | Agile software engineering project extending the UNI application with new metrics. | `Java` · `Agile` |
 | DA | [TraveLog](https://github.com/joaopedromartins/TraveLog) | Route optimization system for a travel agency using graph search. | `Python` · `NetworkX` |
