@@ -9,6 +9,7 @@
 
 | Project | Description |
 |--------|------------|
+| [Fintech GenAI Assistant](https://github.com/jpmartins448/fintech-genai-assistant) | End-to-end hybrid AI system combining deterministic NLP pipelines with local LLM inference (Ollama) for safe fintech interactions. Features intent classification (~96% accuracy), entity extraction, safety-aware action routing, and LLM-powered responses for informational queries. |
 | [Housing Price Prediction](https://github.com/jpmartins448/House_Pricing_ML) | End-to-end machine learning pipeline for real estate price prediction. Includes data preprocessing, feature engineering, model comparison (Linear Regression, Decision Tree, Random Forest), and evaluation using MAE, RMSE, and R². |
 | [Fintech NLP Intent Pipeline](https://github.com/jpmartins448/fintech-nlp-intent-pipeline) | End-to-end NLP pipeline that transforms fintech user prompts into structured, actionable outputs. Includes model comparison (Logistic Regression vs LinearSVC), character-level TF-IDF achieving 95.98% accuracy, rule-based entity extraction, and safety-aware intent-to-action mapping with confidence-based human review. |
 
