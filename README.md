@@ -5,7 +5,14 @@
 🚀 Currently seeking a **curricular internship** to apply my skills and gain hands-on experience in software engineering.
 
 
-## 📂 Projects
+## 🧠 Personal Projects
+
+| Project | Description |
+|--------|------------|
+| [Housing Price Prediction](https://github.com/jpmartins448/House_Pricing_ML) | End-to-end machine learning pipeline for real estate price prediction. Includes data preprocessing, feature engineering, model comparison (Linear Regression, Decision Tree, Random Forest), and evaluation using MAE, RMSE, and R². |
+
+
+## 📂 COllege Projects
 
 | UC | Project | Description |
 |----|----------|--------------|
